@@ -1,0 +1,82 @@
+Josh Agripo
+Software Engineer
+Capelle a.d IJssel, Netherlands | joshuaagripo@gmail.com | +31 6 44753422 | https://linkedin.com/in/joshagripo
+
+Profile
+I'm a software engineer with 3-4 years shipping production applications end-to-end and leading product development. I'm passionate
+about learning new approaches or about working with new stacks.
+
+Professional Experience
+
+Jul 2025 – Present  Software Engineer
+WeAreReasonablePeople
+• I managed and implemented multiple end-to-end LLM integrations that reduced budgeting costs and operational tasks of our clients from concept to production using LangChain and Nest.
+• I created an integration that received up to 300-400 documents in a week for approving data against regulations of certifications providing data to the regulation auditor, lessening budgeting and operational costs.
+• I created an integration that received 200-800 document manuals containing 10.000-50.000 spare parts to be sorted and processed, this integration provided maintenance data and instructions to engineers.
+• I developed a reusable framework containing microservices for these integrations that reduced delivery time from 1-2 months to 1-2 weeks for each proposal.
+• I set domain-driven architecture standards for ongoing applications that shorten our development time and reduced domain-knowledge constraints.
+
+Sep 2024 – May 2025  Senior Software Engineer
+Touch Tree
+• I worked on a large-scale management platform for distributors to manage their own publications from concept to production managing around 500-1000 publications in 10 countries using React, Angular, Laravel, and Nest.
+• I created an application that used a publication to create a web-based view for accessible reading used by 100-200 publishers using React, Adobe PostScript and Laravel.
+• I mentored engineers on domain-driven architecture to shorten development time from 4-6 months to 1-2 months assessed mid-term and after completion of a proposal.
+• I held architectural and technical mentorship responsibilities such as keeping up best practices and ensuring consistent achievement of deliverables.
+
+Dec 2023 – Sep 2024  Software Engineer
+Touch Tree
+• I managed the development of several applications for publishers to distribute magazines via a web-based catalog.
+• I created a catalog management platform containing data metrics and advertising campaign integrations from concept to production.
+• I developed white-label products for our distributor products including document management, printing, and customer viewing.
+• I provided architectural changes that reduced deployment cycle time from 1-2 weeks to 3-6 days.
+
+Feb 2023 – Jul 2023  Software Engineer
+Heisa
+• I contributed to the development of our web applications.
+Internship
+• I worked on conceptual designs for our websites.
+• I developed applications from concept to production.
+• I created services such as chat servers, notification services, and real-time chat rooms in Nest.
+
+Aug 2022 – Feb 2023  Software Engineer
+Tripany
+• I contributed to the development of our e-commerce platforms, implementing telemetry tracking for machinery, and managing back-end endpoints.
+Internship
+• I created interfaces for customer-facing e-commerce applications for product viewing e.g. rental vehicles, tools and parts.
+• I managed a part of an application that managed the viewing of around 15.000-20.000 products.
+
+Education
+Jan 2025  Yale University
+Undergraduate Coursework, Psychology and Philosophy
+• Non-degree.
+
+Sep 2023  Rotterdam University of Applied Science
+Software Engineering
+• I attended through year 3 of coursework.
+
+Aug 2020 – Apr 2023  Grafisch Lyceum Rotterdam
+Software Engineering
+
+Sep 2014 – Apr 2018  Grafisch Lyceum Rotterdam
+Media Studies
+
+Languages
+Dutch
+English
+
+Courses
+2025  Introduction to Psychology, Yale University, PSYC110
+2025  Philosophy and the Science of Human Nature, Yale University, PHIL181
+2025  Software Architecture: Domain-Driven Design, Linkedin
+2024  GitHub Career Essentials in GitHub Professional Certificate, Github
+2024  Microsoft Career Essentials in Software Development, Microsoft, LinkedIn
+
+Skills
+Languages: TypeScript, JavaScript, Python, PHP, Dart, Java
+Infrastructure: Amazon Web Services, Microsoft Azure, Virtual Machines, Container Apps, Cloudflare, Vercel
+Frontend: React, Vite, Material UI, Vue, Angular, Flutter, Razor, Blazor, Figma, Sketch
+Databases: MongoDB, MariaDB, Postgres
+Backend: Node, Flask, Django, FastAPI, Laravel, Symfony, Spring Boot, WordPress, Prisma, Mongoose
+AI: Hugging Face, OpenAI, Ollama, LangChain, OpenRouter
+DevOps: Git, GitHub, GitLab, GitHub Actions, Docker Compose, Kubernetes, SSH, Servers
+Architecture: Domain Driven Design, Clean Architecture, Layered Architecture
