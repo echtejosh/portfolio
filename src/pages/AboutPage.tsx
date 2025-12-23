@@ -40,9 +40,8 @@ export function AboutPage() {
             <div className="mt-6 grid gap-4 text-sm leading-relaxed text-white/70 sm:text-base">
               <p>
                 I&apos;m Joshua Agripo, a software engineer based in the Netherlands. I
-                take pride in creating applications that feel intentional: close to
-                the function, yet elegant. Dependable in production, clear in
-                structure, and genuinely pleasant to use and maintain for both
+                take pride in creating applications that are intentional, closely aligned
+                with their purpose, and genuinely pleasant to use and maintain for both
                 clients and fellow engineers.
               </p>
               <p>
@@ -55,7 +54,7 @@ export function AboutPage() {
               <p>
                 Every product I ship reflects the virtues I care about: clarity,
                 quality, and thoughtfulness. Each delivery is a
-                testament to refinement over time, and a standard I want teams
+                testament to refinement over time, and a standard I want others
                 to feel confident building on.
               </p>
             </div>
@@ -113,16 +112,10 @@ export function AboutPage() {
             Outside of work
           </div>
           <div className="mt-4 max-w-2xl text-sm leading-relaxed text-white/70 sm:text-base">
-            I read, play piano, cook, make art, and enjoy good conversations
-            with friends. Especially the kind that wanders into science and
-            ideas.
+            Outside of coding, I enjoy reading, playing piano, cooking, making art, and sharing thoughtful conversations with friends—especially those that wander into science and ideas.
           </div>
           <div className="mt-4 max-w-2xl text-sm leading-relaxed text-white/70 sm:text-base">
-            Reading books is a favorite, especially psychology and neuroscience.
-            Recent reads include <span className="italic">The Body Keeps the Score</span> by
-            Bessel van der Kolk about trauma and neuroscience, and{' '}
-            <span className="italic">Delivered from Distraction</span> by Edward M. Hallowell
-            and John J. Ratey on neuroscience and medicine.
+            I’m particularly drawn to books on psychology and neuroscience. Recent favorites include <span className="italic">The Body Keeps the Score</span> by Bessel van der Kolk, which explores trauma and the brain, and <span className="italic">Delivered from Distraction</span> by Edward M. Hallowell and John J. Ratey, a deep dive into neuroscience and medicine.
           </div>
         </div>
       </Container>
