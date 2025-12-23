@@ -65,7 +65,7 @@ export function AboutPage() {
                 rel="noreferrer"
                 className="group inline-flex items-center gap-2 rounded-2xl border border-white/10 bg-black px-4 py-2 text-sm tracking-tight text-white/70 transition hover:bg-white/[0.05] hover:text-white"
               >
-                View resume
+                View my resume
                 <ArrowUpRight className="h-4 w-4 text-white/60 transition group-hover:text-white" />
               </a>
             </div>
