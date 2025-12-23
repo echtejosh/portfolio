@@ -34,8 +34,8 @@ export function BlogPostPage() {
           </h1>
 
           <p className="mt-4 text-sm leading-relaxed text-white/70 sm:text-base">
-            I started researching a proof-of-concept for the best approach to retrieving data from technical manuals to provide
-            maintenance instructions for engineers who depended on these documents. I needed to prove whether it was possible to build a reliable system that could handle
+            I began researching a proof of concept for the best approach to retrieving data from technical manuals to provide
+            maintenance instructions for engineers who depend on these documents. I needed to prove whether it was possible to build a reliable system that could handle
             a large volume of diverse documents while producing consistent and accurate data.
           </p>
 
@@ -123,7 +123,7 @@ export function BlogPostPage() {
                 Making Validation Practical
               </h2>
               <p>
-                The checkpoint approach made human-in-the-loop validation actually feasible.
+                The checkpoint approach made human-in-the-loop validation actually possible between stages within the pipeline.
                 Instead of reviewing only the final output, reviewers can now inspect the output of each checkpoint by either logging the output or storing it in a database. This prevents bad data from flowing into downstream stages,
                 which previously resulted in cascading errors.
               </p>
@@ -232,7 +232,7 @@ export function BlogPostPage() {
               <p>
                 Providing clear boundaries between each responsibility for the models is crucial. The fix usually isn't more sophisticated prompting or better instructions;
                 it's establishing clearer separation of concerns, ensuring you get expected outputs at every step, and making these outputs debuggable. Consistency and idempotency should be built into the architecture, not
-                something you rely on models to achieve on their own.
+                something you rely on models to achieve on their own. Thank you for reading and I hope I have provided some useful insights into building reliable LLM pipelines. Until next time!
               </p>
             </section>
           </div>
