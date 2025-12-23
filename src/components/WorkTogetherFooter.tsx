@@ -46,7 +46,7 @@ export function WorkTogetherFooter() {
               Contact
             </div>
             <div className="mt-4 grid gap-3">
-              <FooterLink href={site.links.email}>joshagripo@gmail.com</FooterLink>
+              <FooterLink href={site.links.email}>joshuaagripo@gmail.com</FooterLink>
               <FooterLink href={site.links.phone}>+31 6 44753422</FooterLink>
             </div>
           </div>

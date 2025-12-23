@@ -9,8 +9,8 @@ export const site = {
     "I'm passionate about learning new approaches and working with new stacks.",
   ],
   links: {
-    email: 'mailto:joshagripo@gmail.com',
-    gmail: 'mailto:joshagripo@gmail.com',
+    email: 'mailto:joshuaagripo@gmail.com',
+    gmail: 'mailto:joshuaagripo@gmail.com',
     phone: 'tel:+31644753422',
     github: 'https://github.com/',
     linkedin: 'https://linkedin.com/in/joshagripo',
