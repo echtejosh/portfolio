@@ -206,8 +206,8 @@ export function BlogPostPage() {
   Extract --> Transform[Checkpoint: transformation]
   Transform --> Aggregate[Checkpoint: aggregation]
 
-  Extract -->|artifact + status| Store1[Artifact store]
-  Transform -->|artifact + status| Store2[Artifact store]
+  Extract -->|artifact| Store1[Artifact store]
+  Transform -->|artifact| Store2[Artifact store]
   Aggregate -->|final outputs| Store3[Artifact store]
 `}
                 className="w-full"
