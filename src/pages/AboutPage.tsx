@@ -39,10 +39,11 @@ export function AboutPage() {
 
             <div className="mt-6 grid gap-4 text-sm leading-relaxed text-white/70 sm:text-base">
               <p>
-                I&apos;m Joshua Agripo, a software engineer based in the Netherlands. I
-                take pride in creating applications that are intentional, closely aligned
-                with their purpose, and genuinely pleasant to use and maintain for both
-                clients and fellow engineers.
+                I&apos;m Joshua Agripo, a software engineer based in the
+                Netherlands. I take pride in creating applications that are
+                intentional, closely aligned with their purpose, and genuinely
+                pleasant to use and maintain for both clients and fellow
+                engineers.
               </p>
               <p>
                 For me, engineering is more than making things work. It&apos;s
@@ -53,9 +54,9 @@ export function AboutPage() {
               </p>
               <p>
                 Every product I ship reflects the virtues I care about: clarity,
-                quality, and thoughtfulness. Each delivery is a
-                testament to refinement over time, and a standard I want others
-                to feel confident building on.
+                quality, and thoughtfulness. Each delivery is a testament to
+                refinement over time, and a standard I want others to feel
+                confident building on.
               </p>
             </div>
             <div className="mt-6">
@@ -70,7 +71,6 @@ export function AboutPage() {
               </a>
             </div>
           </div>
-
         </div>
 
         <div className="mt-16 grid gap-6 lg:mt-20 lg:grid-cols-12 lg:gap-10">
@@ -112,10 +112,18 @@ export function AboutPage() {
             Outside of work
           </div>
           <div className="mt-4 max-w-2xl text-sm leading-relaxed text-white/70 sm:text-base">
-            Outside of coding, I enjoy reading, playing piano, cooking, making art, and sharing thoughtful conversations with friends—especially those that wander into science and ideas.
+            Outside of coding, I enjoy reading, playing piano, cooking, making
+            art, and sharing thoughtful conversations with friends, especially
+            those that wander into science and ideas.
           </div>
           <div className="mt-4 max-w-2xl text-sm leading-relaxed text-white/70 sm:text-base">
-            I’m particularly drawn to books on psychology and neuroscience. Recent favorites include <span className="italic">The Body Keeps the Score</span> by Bessel van der Kolk, which explores trauma and the brain, and <span className="italic">Delivered from Distraction</span> by Edward M. Hallowell and John J. Ratey, a deep dive into neuroscience and medicine.
+            I’m particularly drawn to books on psychology and neuroscience.
+            Recent favorites include{' '}
+            <span className="italic">The Body Keeps the Score</span> by Bessel
+            van der Kolk, which explores trauma and the brain, and{' '}
+            <span className="italic">Delivered from Distraction</span> by Edward
+            M. Hallowell and John J. Ratey, a deep dive into neuroscience and
+            medicine.
           </div>
         </div>
       </Container>
